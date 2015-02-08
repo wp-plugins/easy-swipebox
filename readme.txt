@@ -9,15 +9,15 @@ License: The MIT License (MIT)
 License URI: http://opensource.org/licenses/MIT
 
 This plugin enable SwipeBox jQuery extension to all links to image or Video (Youtube / Vimeo).
-Please, for contributions, issues and questions visit https://github.com/leopuleo/easy-swipebox
 
 == Description ==
 
 This plugin enable SwipeBox jQuery extension to all links to image or Video (Youtube / Vimeo).
+Please, for contributions, issues and questions visit https://github.com/leopuleo/easy-swipebox
 
 == Installation ==
 
-1. Download the plugin fron Wordpress repository.
+1. Download the plugin from Wordpress repository.
 1. Upload the plugin folder in `/plugins/`. 
 1. Activate the plugin.
 
