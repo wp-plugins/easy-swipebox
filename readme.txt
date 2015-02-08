@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: LeoPeo
 Donate link: 
-Tags: comments, spam
+Tags: image, video, gallery, fancybox, swipebox
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 4.1
@@ -9,6 +9,7 @@ License: The MIT License (MIT)
 License URI: http://opensource.org/licenses/MIT
 
 This plugin enable SwipeBox jQuery extension to all links to image or Video (Youtube / Vimeo).
+Please, for contributions, issues and questions visit https://github.com/leopuleo/easy-swipebox
 
 == Description ==
 
@@ -24,6 +25,7 @@ Done! Now all link to image or Youtube/Vimeo opens in a beautiful touch/swipe li
 
 == Frequently Asked Questions ==
 
+Please, for contributions, issues and questions visit https://github.com/leopuleo/easy-swipebox
 
 == Screenshots ==
 
