@@ -32,5 +32,10 @@ Please, for contributions, issues and questions visit https://github.com/leopule
 
 == Changelog ==
 
+= 0.9.1 =
+Bugs fix: 
+* Added JPEG extension support
+* Use image title as link title (alt fallback)
+
 = 0.9 =
 * First commit
