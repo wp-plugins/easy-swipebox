@@ -38,7 +38,7 @@ THE SOFTWARE.
  * CONSTANTS
  **************/
 
-define( 'EASY_SWIPEBOX_VERSION', '0.9' );
+define( 'EASY_SWIPEBOX_VERSION', '0.9.1' );
 define( 'SWIPEBOX_VERSION', '1.3.0.2' );
 define( 'EASY_SWIPEBOX_PLUGINBASENAME', plugin_basename(__FILE__) );
 define( 'EASY_SWIPEBOX_PLUGINFILE', basename(__FILE__) );
